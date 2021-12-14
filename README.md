@@ -8,5 +8,7 @@
 <img width="677" alt="image" src="https://user-images.githubusercontent.com/90563473/146022155-4ced69ed-c33b-4f1d-ac0b-2381c3ad395c.png">
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/90563473/146022449-45ceac45-97b5-4171-8f12-0980579a3255.png">
 <img width="677" alt="image" src="https://user-images.githubusercontent.com/90563473/146022582-b16f7add-9cb4-4caf-9175-ea9c2382f0a5.png">
+
 ## В какой среде программирования мужно открыть данный проект?
+
 Данную программу можно открыть в среде программирования Visual Studio.
